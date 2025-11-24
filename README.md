@@ -18,12 +18,6 @@ Passionnée par la manière d'intégrer des connaissances factuelles aux modèle
 
 ---
 
-### 📈 Mon Rythme de Travail & Statistiques
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=GracielaTHOO&show_icons=true&locale=fr&theme=react&rank_icon=percentile)
-
----
-
 ### 🏅 Mes Certifications et Badges Google Developer
 * **Machine Learning Crash Course: Neural networks**
   * ➡️ [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/neural-networks)
@@ -65,8 +59,16 @@ Passionnée par la manière d'intégrer des connaissances factuelles aux modèle
 
 ---
 
+### 📈 Mon Rythme de Travail & Statistiques
+
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=GracielaTHOO&show_icons=true&locale=fr&theme=react&rank_icon=percentile)
+
+---
 ### 🤝 Connectons-nous
 
 * 💬 Je suis actuellement en plein **Challenge LinkedIn de 30 jours** ! Rejoignez la conversation sur mon dernier post.
     * ➡️ **[www.linkedin.com/in/graciela-thoo]** *
     * 📧 Contactez-moi : joellathoo@gmail.com
+
+
+
