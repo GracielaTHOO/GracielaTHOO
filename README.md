@@ -26,34 +26,34 @@ Passionnée par la manière d'intégrer des connaissances factuelles aux modèle
 
 ### 🏅 Mes Certifications et Badges Google Developer
 * **Machine Learning Crash Course: Neural networks**
-  * ➡️ Preuve de certification : [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/neural-networks)
+  * ➡️ [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/neural-networks)
   
 * **Machine Learning Crash Course: Overfitting**
-  * ➡️ Preuve de certification : [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/overfitting)
+  * ➡️ [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/overfitting)
 
 * **Machine Learning Crash Course: Categorical data**
-  * ➡️ Preuve de certification : [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/categorical-data)
+  * ➡️ [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/categorical-data)
 
 * **Machine Learning Crash Course: Embeddings**
-  * ➡️ Preuve de certification : [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/embeddings)
+  * ➡️ [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/embeddings)
 
 * **Machine Learning Crash Course: Production ML Systems**
-  * ➡️ Preuve de certification : [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/production-ml-systems)
+  * ➡️ [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/production-ml-systems)
 
 * **Machine Learning Crash Course: Numerical data**
-  * ➡️ Preuve de certification : [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/numerical-data)
+  * ➡️ [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/numerical-data)
 
 * **Machine Learning Crash Course: LLMs (Large Language Models)**
-  * ➡️ Preuve de certification : [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/llms)
+  * ➡️ [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/llms)
 
 * **Machine Learning Crash Course: Classification**
-  * ➡️ Preuve de certification : [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/classification)
+  * ➡️ [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/classification)
 
 * **Machine Learning Crash Course: Logistic Regression**
-  * ➡️ Preuve de certification : [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/logistic-regression)
+  * ➡️ [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/logistic-regression)
 
 * **Machine Learning Crash Course: Linear Regression**
-  * ➡️ Preuve de certification : [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/linear-regression)
+  * ➡️ [Lien de vérification ici](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/linear-regression)
 ---
 
 ### 💡 Projets Actuels & Objectifs 
