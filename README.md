@@ -1,6 +1,6 @@
 # Salut, je suis Graciela THOO ! 👋
 
-### 🎯 Développeur Python & Aspiring Data Scientist (Spécialisation RAG / NLP)
+### 🎯 Développeuse Python & Aspiring Data Scientist (Spécialisation RAG / NLP)
 
 Passionnée par la manière d'intégrer des connaissances factuelles aux modèles d'IA pour des applications concrètes. Actuellement en plein sprint intensif pour solidifier mes bases Python  et batir ma carrière!
 
@@ -36,4 +36,5 @@ Passionnée par la manière d'intégrer des connaissances factuelles aux modèle
 ### 🤝 Connectons-nous
 
 * 💬 Je suis actuellement en plein **Challenge LinkedIn de 30 jours** ! Rejoignez la conversation sur mon dernier post.
-    * ➡️ **[www.linkedin.com/in/graciela-thoo]** * 📧 Contactez-moi : joellathoo@gmail.com
+    * ➡️ **[www.linkedin.com/in/graciela-thoo]** *
+    * 📧 Contactez-moi : joellathoo@gmail.com
