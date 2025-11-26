@@ -58,12 +58,6 @@ Passionnée par la manière d'intégrer des connaissances factuelles aux modèle
 * **3. 📝 Documentation et Apprentissage :** Des notebooks Jupyter pour documenter les concepts clés appris en NLP (Strings, Sets, Tokenisation).
 
 ---
-
-### 📈 Mon Rythme de Travail & Statistiques
-
-[Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=GracielaTHOO&show_icons=true&locale=fr&theme=react&rank_icon=percentile)
-
----
 ### 🤝 Connectons-nous
 
 * 💬 Je suis actuellement en plein **Challenge LinkedIn de 30 jours** ! Rejoignez la conversation sur mon dernier post.
