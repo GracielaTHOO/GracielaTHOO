@@ -86,7 +86,7 @@ Diplômée du **Master MIAGE**, j’allie une expertise technique approfondie en
 
 ### 📬 Me contacter
 - **LinkedIn :** [linkedin.com/in/graciela-thoo/](https://www.linkedin.com/in/graciela-thoo/)
-- **Localisation :** Rennes, France 🇫🇷 (Ouvert au Remote / France / Canada / Suisse)
+- **Localisation :** France 🇫🇷 (Ouvert au Remote / France / Canada / Suisse)
 ---
 
 
