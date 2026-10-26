@@ -2,7 +2,7 @@
 
 ### **Consultante Data & Ingénieure IA | Spécialiste NLP & GenAI (RAG)**
 
-Diplômée du **Master MIAGE**, j’allie une expertise technique approfondie en ingénierie des données à une vision stratégique des systèmes d’information. Mon travail se concentre sur l'industrialisation de solutions d'intelligence artificielle de pointe, avec une maîtrise particulière des architectures **RAG (Retrieval-Augmented Generation)**.
+Diplômée d'un **Master MIAGE**, j’allie une expertise technique approfondie en ingénierie des données à une vision stratégique des systèmes d’information. Mon travail se concentre sur l'industrialisation de solutions d'intelligence artificielle de pointe, avec une maîtrise particulière des architectures **RAG (Retrieval-Augmented Generation)**.
 
 ---
 
