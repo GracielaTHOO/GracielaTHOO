@@ -1,10 +1,11 @@
 # 👋 Bonjour, je suis Graciela THOO
 
 ### **DATA & AI ENGINEER| Spécialiste NLP & GenAI (RAG)**
-
-Diplômée d'un **Master MIAGE**, j’allie une expertise technique approfondie en ingénierie des données à une vision stratégique des systèmes d’information. Mon travail se concentre sur l'industrialisation de solutions d'intelligence artificielle de pointe, avec une maîtrise particulière des architectures **RAG (Retrieval-Augmented Generation)**.
 **Secteur de prédilection**: la santé, la finance, la beauté
 **Objectif**: à l'horizon 2040, être CDAO, experte IA appliquée dans un de mes secteurs de prédilection.
+
+Diplômée d'un **Master MIAGE**, j’allie une expertise technique approfondie en ingénierie des données à une vision stratégique des systèmes d’information. Mon travail se concentre sur l'industrialisation de solutions d'intelligence artificielle de pointe, avec une maîtrise particulière des architectures **RAG (Retrieval-Augmented Generation)**.
+
 ---
 
 ### 🚀 Ma Stack Technologique 
